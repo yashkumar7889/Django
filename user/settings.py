@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'telusko',
         'USER': 'postgres',
         'PASSWORD': 'yash9887',
-        'HOST':'localhost'
+        #'HOST':'localhost'
     }
 }
 
